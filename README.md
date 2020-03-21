@@ -1,5 +1,5 @@
 # dataset
-Dataset for the R package archeophases  
+Datasets for the R package ArchaeoPhases  
 
 The files here have been updated so the 'magic number' is compatible with loading from a connection with a recent version of R.
 
