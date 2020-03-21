@@ -1,7 +1,9 @@
 # dataset
 Datasets for the R package ArchaeoPhases  
 
-The files here have been updated so the 'magic number' is compatible with loading from a connection with a recent version of R.
+These files were moved out of the data/ folder.
+
+The files have been updated so the 'magic number' is compatible with loading from a connection with a recent version of R.
 
 An example of the update process:
 
